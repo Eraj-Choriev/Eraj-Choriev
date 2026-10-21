@@ -1,0 +1,167 @@
+{
+  "owner": "Eraj-Choriev",
+  "updatedAt": "2026-10-21T06:52:42+05:00",
+  "timezone": "Asia/Dushanbe",
+  "periodStart": "2026-08-03",
+  "periodEnd": "2026-10-21",
+  "projectCount": 16,
+  "languageCount": 5,
+  "demoCount": 3,
+  "languages": {
+    "JavaScript": 5,
+    "HTML": 4,
+    "CSS": 3,
+    "TypeScript": 2,
+    "Python": 1
+  },
+  "repositories": [
+    {
+      "name": "Brutalism_landing",
+      "language": "HTML",
+      "url": "https://github.com/Eraj-Choriev/Brutalism_landing",
+      "homepage": ""
+    },
+    {
+      "name": "E-Commerce",
+      "language": "HTML",
+      "url": "https://github.com/Eraj-Choriev/E-Commerce",
+      "homepage": ""
+    },
+    {
+      "name": "E-Commerce-",
+      "language": "HTML",
+      "url": "https://github.com/Eraj-Choriev/E-Commerce-",
+      "homepage": ""
+    },
+    {
+      "name": "for-practise",
+      "language": "CSS",
+      "url": "https://github.com/Eraj-Choriev/for-practise",
+      "homepage": ""
+    },
+    {
+      "name": "GZne_bot",
+      "language": "Python",
+      "url": "https://github.com/Eraj-Choriev/GZne_bot",
+      "homepage": ""
+    },
+    {
+      "name": "Main-Portfolio-Chariev-Eraj",
+      "language": "JavaScript",
+      "url": "https://github.com/Eraj-Choriev/Main-Portfolio-Chariev-Eraj",
+      "homepage": ""
+    },
+    {
+      "name": "MIrageDynamx.com",
+      "language": "JavaScript",
+      "url": "https://github.com/Eraj-Choriev/MIrageDynamx.com",
+      "homepage": ""
+    },
+    {
+      "name": "neru-v2",
+      "language": "JavaScript",
+      "url": "https://github.com/Eraj-Choriev/neru-v2",
+      "homepage": "https://neru-v2.vercel.app"
+    },
+    {
+      "name": "New_map_app",
+      "language": "JavaScript",
+      "url": "https://github.com/Eraj-Choriev/New_map_app",
+      "homepage": ""
+    },
+    {
+      "name": "portfolio.github.io",
+      "language": "CSS",
+      "url": "https://github.com/Eraj-Choriev/portfolio.github.io",
+      "homepage": ""
+    },
+    {
+      "name": "saas-landing",
+      "language": "TypeScript",
+      "url": "https://github.com/Eraj-Choriev/saas-landing",
+      "homepage": "https://saaslanding-rosy.vercel.app"
+    },
+    {
+      "name": "Sardor.note.tj",
+      "language": null,
+      "url": "https://github.com/Eraj-Choriev/Sardor.note.tj",
+      "homepage": ""
+    },
+    {
+      "name": "taj_os",
+      "language": "HTML",
+      "url": "https://github.com/Eraj-Choriev/taj_os",
+      "homepage": ""
+    },
+    {
+      "name": "tasty",
+      "language": "CSS",
+      "url": "https://github.com/Eraj-Choriev/tasty",
+      "homepage": ""
+    },
+    {
+      "name": "testing-voice",
+      "language": "TypeScript",
+      "url": "https://github.com/Eraj-Choriev/testing-voice",
+      "homepage": ""
+    },
+    {
+      "name": "token-lens",
+      "language": "JavaScript",
+      "url": "https://github.com/Eraj-Choriev/token-lens",
+      "homepage": "https://parcel-one-blond.vercel.app"
+    }
+  ],
+  "weeks": [
+    {
+      "start": "2026-08-03",
+      "commits": 14
+    },
+    {
+      "start": "2026-08-10",
+      "commits": 3
+    },
+    {
+      "start": "2026-08-17",
+      "commits": 0
+    },
+    {
+      "start": "2026-08-24",
+      "commits": 0
+    },
+    {
+      "start": "2026-08-31",
+      "commits": 0
+    },
+    {
+      "start": "2026-09-07",
+      "commits": 0
+    },
+    {
+      "start": "2026-09-14",
+      "commits": 0
+    },
+    {
+      "start": "2026-09-21",
+      "commits": 6
+    },
+    {
+      "start": "2026-09-28",
+      "commits": 0
+    },
+    {
+      "start": "2026-10-05",
+      "commits": 0
+    },
+    {
+      "start": "2026-10-12",
+      "commits": 1
+    },
+    {
+      "start": "2026-10-19",
+      "commits": 0
+    }
+  ],
+  "commitCount": 24,
+  "activeDays": 7
+}
