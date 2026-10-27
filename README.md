@@ -35,7 +35,7 @@ React · Vite · Recharts · Firebase<br>[Live preview](https://parcel-one-blond
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/dashboard-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/dashboard-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg">
-  <img alt="16 public projects, 5 primary languages, 3 linked demos. 10 public default-branch commits across the displayed 12 weeks. Updated 2026-10-26." src="assets/dashboard-light.svg" width="100%">
+  <img alt="16 public projects, 5 primary languages, 3 linked demos. 10 public default-branch commits across the displayed 12 weeks. Updated 2026-10-27." src="assets/dashboard-light.svg" width="100%">
 </picture>
 
 Updated daily from public GitHub data. The chart counts commits attributed to this account on public project default branches; it is a different measure from the contribution calendar. [How the numbers are calculated](docs/METRICS.md).
@@ -43,7 +43,7 @@ Updated daily from public GitHub data. The chart counts commits attributed to th
 <details>
 <summary>View dashboard data as text</summary>
 
-As of **2026-10-26**, Asia/Dushanbe: **16** public projects, **3** repositories with linked demos, **10** public default-branch commits from 2026-08-10 to 2026-10-26, across **5** active days.
+As of **2026-10-27**, Asia/Dushanbe: **16** public projects, **3** repositories with linked demos, **10** public default-branch commits from 2026-08-10 to 2026-10-27, across **5** active days.
 
 | Primary language | Projects |
 | :--- | ---: |
