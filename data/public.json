@@ -1,9 +1,9 @@
 {
   "owner": "Eraj-Choriev",
-  "updatedAt": "2026-11-01T14:16:35+05:00",
+  "updatedAt": "2026-11-02T14:30:31+05:00",
   "timezone": "Asia/Dushanbe",
-  "periodStart": "2026-08-10",
-  "periodEnd": "2026-11-01",
+  "periodStart": "2026-08-17",
+  "periodEnd": "2026-11-02",
   "projectCount": 16,
   "languageCount": 5,
   "demoCount": 3,
@@ -114,10 +114,6 @@
   ],
   "weeks": [
     {
-      "start": "2026-08-10",
-      "commits": 3
-    },
-    {
       "start": "2026-08-17",
       "commits": 0
     },
@@ -160,8 +156,12 @@
     {
       "start": "2026-10-26",
       "commits": 3
+    },
+    {
+      "start": "2026-11-02",
+      "commits": 0
     }
   ],
-  "commitCount": 13,
-  "activeDays": 7
+  "commitCount": 10,
+  "activeDays": 5
 }
